@@ -1,0 +1,3 @@
+yum-config-manager --disable webtatic
+yum install php-pecl-zip
+yum --enablerepo=remi install phpMyAdmin
